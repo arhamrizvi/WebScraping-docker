@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="833d5ed0-917d-42e9-ad15-1b9d6267e9fa" name="Default Changelist" comment="" />
+    <list default="true" id="833d5ed0-917d-42e9-ad15-1b9d6267e9fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/application/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../omnilytics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Panther" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -104,6 +109,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608313842128">
@@ -114,10 +120,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1608445708857" />
-    <state x="642" y="191" key="FileChooserDialogImpl" timestamp="1608489190297">
+    <state x="642" y="191" key="FileChooserDialogImpl" timestamp="1608888512514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="642" y="191" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608489190297" />
+    <state x="642" y="191" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608888512514" />
     <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1608116157330">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

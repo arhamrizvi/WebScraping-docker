@@ -1,4 +1,6 @@
-FROM python:3-onbuild
+FROM python:3
+
+WORKDIR /usr/src/app
 
 # install dependencies
 RUN pip install requests
